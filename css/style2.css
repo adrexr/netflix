@@ -7,7 +7,7 @@
 }
 
 img {
-    width: 110%;
+    width: 100%;
 }
 
 .cuadro {
@@ -159,15 +159,26 @@ h3 {
     color: white;
     background-color: #070707;
     display: flex;
-    
-    min-height: 60vh;
+    min-height: 40vh;
 }
 .ggggg{
     width: 120px;
+}
+.objetos{
+    display: flex;
+    padding-bottom: 100px;
+    background-color: #070707;
 }
 
 body {
     font-family: 'Inter', sans-serif;
     margin: 0;
     padding: 0;
+}
+
+.carta-prueba img {
+    width: 140px;
+    height: 170px;
+    object-fit: contain;
+    
 }

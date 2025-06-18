@@ -1,0 +1,173 @@
+.contenedor {
+    height: 100vh;
+    background-image: url('../img/back.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+img {
+    width: 110%;
+}
+
+.cuadro {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.tv {
+    margin-left: 250px;
+    margin-top: 80px;
+}
+
+.svg {
+    margin-top: 80px;
+}
+
+.categorias {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    color: white;
+}
+
+.Abajo {
+    height: 427px;
+    display: flex;
+    gap: 40px;
+    color: white;
+    justify-content: center;
+    align-items: end;
+
+}
+
+.sección2 {
+    height: 100vh;
+    background-color: black;
+}
+
+.cuadro1 {
+    display: flex;
+    color: white;
+    justify-content: space-around;
+}
+
+.cruz {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.play {
+    border: 1px solid;
+    background-color: white;
+    width: 80px;
+    height: 10px;
+    display: flex;
+    color: black;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 20px;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.info {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h3 {
+    color: white;
+
+
+}
+
+.imagenes {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
+
+.barra {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid #070707;
+    height: 100px;
+    background-color: #070707;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 30px;
+
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.seccion3{
+    color: white;
+    background-color: #070707;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.gg{
+    width: 112px;
+    
+}
+.gj{
+    width: 56px;
+}
+.seccion4{
+    color: white;
+    background-color: #070707;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+.ggg{
+    width: 165px;
+}
+.gjj{
+    width: 64px;
+}
+.seccion5{
+    color: white;
+    background-color: #070707;
+    display: flex;
+    justify-content: space-around;
+   
+    
+}
+.gggg{
+    width: 155px;
+}
+.gggj{
+    width: 175px;
+}
+.gjjj{
+    width: 70px;
+}
+.seccion6{
+    color: white;
+    background-color: #070707;
+    display: flex;
+    
+    min-height: 60vh;
+}
+.ggggg{
+    width: 120px;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
